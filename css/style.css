@@ -116,7 +116,7 @@ nav .links:hover ul {
 
 /* Start Main */
 main {
-    background-image: url(../Images/landing.jpg);
+    background-image: url("../Images/landing.jpg");
     width: 100%;
     height: calc(100vh - 5.125rem);
     background-position-y: 55%;
